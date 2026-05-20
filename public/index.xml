@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Project</title>
-    <link>https://example.org/</link>
+    <link>https://menaxmn.github.io/PortafolioParadigmasP/</link>
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 01 May 2026 16:55:27 -0700</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://menaxmn.github.io/PortafolioParadigmasP/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Practica2: El paradigma orientado a objetos</title>
-      <link>https://example.org/practica2/</link>
+      <link>https://menaxmn.github.io/PortafolioParadigmasP/practica2/</link>
       <pubDate>Fri, 01 May 2026 16:55:27 -0700</pubDate>
-      <guid>https://example.org/practica2/</guid>
+      <guid>https://menaxmn.github.io/PortafolioParadigmasP/practica2/</guid>
       <description>&lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;&#xA;&lt;p&gt;En esta segunda práctica, el objetivo fue diseñar e implementar un &lt;strong&gt;Simulador de Estacionamiento (Parking Lot)&lt;/strong&gt; aplicando de manera integral los pilares de la &lt;strong&gt;Programación Orientada a Objetos (POO)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;A diferencia de un script lineal, este proyecto utiliza una estructura modular y profesional que permite gestionar diferentes tipos de vehículos (carros y motos), asignar cajones de estacionamiento según compatibilidad y aplicar reglas de negocio dinámicas, como el cálculo de tarifas mediante estrategias polimórficas. Para la visualización final, se integró el framework &lt;strong&gt;Flask&lt;/strong&gt;, permitiendo una separación clara entre la lógica de negocio y la interfaz de usuario bajo un patrón &lt;strong&gt;MVC (Modelo-Vista-Controlador)&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Práctica 1: Cola de impresión en lenguaje C</title>
-      <link>https://example.org/practica1/</link>
+      <link>https://menaxmn.github.io/PortafolioParadigmasP/practica1/</link>
       <pubDate>Fri, 01 May 2026 16:54:50 -0700</pubDate>
-      <guid>https://example.org/practica1/</guid>
+      <guid>https://menaxmn.github.io/PortafolioParadigmasP/practica1/</guid>
       <description>&lt;h1 id=&#34;reporte-de-práctica-01-cola-de-impresión-en-lenguaje-c&#34;&gt;Reporte de Práctica 01: Cola de impresión en lenguaje C&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Materia:&lt;/strong&gt; 40032 - Paradigmas de la Programación [cite: 11]&lt;br&gt;&#xA;&lt;strong&gt;Docente:&lt;/strong&gt; M.I. José Carlos Gallegos Mariscal&lt;br&gt;&#xA;&lt;strong&gt;Grupo:&lt;/strong&gt; 941&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introducción&#34;&gt;1. Introducción&lt;/h2&gt;&#xA;&lt;p&gt;En esta práctica se desarrolló un simulador de cola de impresión en lenguaje C para gestionar trabajos de impresión (&lt;code&gt;print jobs&lt;/code&gt;) bajo una estructura &lt;strong&gt;FIFO&lt;/strong&gt; (First In, First Out). El objetivo principal fue contrastar el manejo de memoria estática frente a la dinámica y entender los conceptos de alcance y duración de variables en un entorno controlado.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Practica0: Manejo de repositorios</title>
-      <link>https://example.org/practica0/</link>
+      <link>https://menaxmn.github.io/PortafolioParadigmasP/practica0/</link>
       <pubDate>Fri, 01 May 2026 16:52:29 -0700</pubDate>
-      <guid>https://example.org/practica0/</guid>
+      <guid>https://menaxmn.github.io/PortafolioParadigmasP/practica0/</guid>
       <description>&lt;h1 id=&#34;markdown&#34;&gt;Markdown&lt;/h1&gt;&#xA;&lt;p&gt;Markdown es un lenguaje de marcado que permite añadir formato a un texto simple mediante símbolos fáciles de recordar. Fue creado para que el contenido sea legible tanto en su forma cruda como cuando se renderiza en HTML.&lt;/p&gt;&#xA;&lt;h3 id=&#34;sintaxis&#34;&gt;Sintaxis&lt;/h3&gt;&#xA;&lt;h1 id=&#34;esto-es-un-encabezado-h1&#34;&gt;Esto es un encabezado H1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;esto-es-un-encabezado-h2&#34;&gt;Esto es un encabezado H2&lt;/h2&gt;&#xA;&lt;h3 id=&#34;esto-es-un-encabezado-h3&#34;&gt;Esto es un encabezado H3&lt;/h3&gt;&#xA;&lt;h4 id=&#34;esto-es-un-encabezado-h4&#34;&gt;Esto es un encabezado H4&lt;/h4&gt;&#xA;&lt;h5 id=&#34;esto-es-un-encabezado-h5&#34;&gt;Esto es un encabezado H5&lt;/h5&gt;&#xA;&lt;p&gt;Esto es un texto en &lt;em&gt;italicas&lt;/em&gt;&#xA;&lt;em&gt;Esto es un texto en italicas&lt;/em&gt;&#xA;Esto es un texto en &lt;em&gt;italicas&lt;/em&gt;&#xA;&lt;em&gt;Esto es un texto en italicas&lt;/em&gt;&#xA;Esto es un texto en &lt;strong&gt;negritas&lt;/strong&gt;&#xA;&lt;strong&gt;Esto es un texto en negritas&lt;/strong&gt;&#xA;Esto es un texto en &lt;strong&gt;negritas&lt;/strong&gt;&#xA;&lt;strong&gt;Esto es un texto en negritas&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
