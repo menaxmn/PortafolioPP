@@ -114,6 +114,6 @@ La ejecución de la aplicación TODO permitió comprender mejor el funcionamient
 
 Además, se adquirieron conocimientos básicos sobre compilación, manejo de dependencias, uso del intérprete interactivo y configuración de variables de entorno para la ejecución de aplicaciones.
 
-[GitHub](https://github.com/menaxmn/PortafolioParadigmasP "Repositorio GitHub")
+[GitHub](https://github.com/menaxmn/PortafolioParadigmasP/tree/main/content/practica3 "Repositorio GitHub")
 
 [Sitio Estatico](https://menaxmn.github.io/PortafolioParadigmasP/ "Sitio Estatico") 
