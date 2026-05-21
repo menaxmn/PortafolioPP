@@ -46,9 +46,9 @@ stack --version
 cabal --version
 ```
 
-![Verificacion de instalación](ghc.png)
-![Verificación de instalación](stack.png)
-![Verificación de instalación](cabal.png)
+![Verificacion de instalación](/practica03/ghc.png)
+![Verificación de instalación](/practica03/stack.png)
+![Verificación de instalación](/practica03/cabal.png)
 
 Los resultados mostrados confirmaron que todas las herramientas fueron instaladas correctamente.
 
@@ -116,4 +116,4 @@ Además, se adquirieron conocimientos básicos sobre compilación, manejo de dep
 
 [GitHub](https://github.com/menaxmn/PortafolioParadigmasP "Repositorio GitHub")
 
-[Sitio Estatico](https://menaxmn.github.io/PortafolioParadigmasP/ "Sitio Estatico")
+[Sitio Estatico](https://menaxmn.github.io/PortafolioParadigmasP/ "Sitio Estatico") 
