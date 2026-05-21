@@ -46,9 +46,9 @@ stack --version
 cabal --version
 ```
 
-![Verificacion de instalación](/practica03/ghc.png)
-![Verificación de instalación](/practica03/stack.png)
-![Verificación de instalación](/practica03/cabal.png)
+![Verificacion de instalación](ghc.png)
+![Verificación de instalación](stack.png)
+![Verificación de instalación](cabal.png)
 
 Los resultados mostrados confirmaron que todas las herramientas fueron instaladas correctamente.
 
