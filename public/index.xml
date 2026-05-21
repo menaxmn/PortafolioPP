@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2026 16:55:27 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 16:55:32 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/PortafolioParadigmasP/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practica3: El paradigma funcional</title>
+      <link>http://localhost:1313/PortafolioParadigmasP/practica3/</link>
+      <pubDate>Fri, 01 May 2026 16:55:32 -0700</pubDate>
+      <guid>http://localhost:1313/PortafolioParadigmasP/practica3/</guid>
+      <description>&lt;h1 id=&#34;introducción&#34;&gt;Introducción&lt;/h1&gt;&#xA;&lt;p&gt;En esta práctica se realizó la instalación y configuración del entorno de desarrollo del lenguaje de programación funcional &lt;strong&gt;Haskell&lt;/strong&gt; utilizando la herramienta oficial GHCup. Además, se verificó el funcionamiento del compilador, del intérprete interactivo y de las herramientas principales del ecosistema de Haskell. Finalmente, se ejecutó una aplicación tipo TODO para comprender el flujo de trabajo y la estructura básica de un proyecto desarrollado en Haskell.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;objetivo&#34;&gt;Objetivo&lt;/h1&gt;&#xA;&lt;p&gt;El objetivo de esta práctica fue instalar correctamente el entorno de desarrollo de Haskell, verificar su funcionamiento y ejecutar una aplicación de ejemplo para conocer el uso de herramientas como GHC, Stack y Cabal.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Practica2: El paradigma orientado a objetos</title>
       <link>http://localhost:1313/PortafolioParadigmasP/practica2/</link>

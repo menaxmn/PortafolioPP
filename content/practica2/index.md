@@ -62,7 +62,9 @@ La aplicación web se divide siguiendo el diagrama de componentes del sistema:
 
 ---
 
-[GitHub](https://github.com/menaxmn/Portafolio_PP.git "Repositorio GitHub")
+[GitHub](https://github.com/menaxmn/PortafolioParadigmasP "Repositorio GitHub")
+
+[Sitio Estatico](https://menaxmn.github.io/PortafolioParadigmasP/ "Sitio Estatico")
 
 #  Fragmentos de Código Clave
 

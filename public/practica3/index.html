@@ -1,12 +1,16 @@
 <!DOCTYPE html>
 <html lang="en-us">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head><script src="/PortafolioParadigmasP/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=PortafolioParadigmasP/livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     
     <title>Practica3: El paradigma funcional | My New Hugo Project</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
-    <meta name="description" content="">
+    <meta name="description" content="Introducción
+En esta práctica se realizó la instalación y configuración del entorno de desarrollo del lenguaje de programación funcional Haskell utilizando la herramienta oficial GHCup. Además, se verificó el funcionamiento del compilador, del intérprete interactivo y de las herramientas principales del ecosistema de Haskell. Finalmente, se ejecutó una aplicación tipo TODO para comprender el flujo de trabajo y la estructura básica de un proyecto desarrollado en Haskell.
+
+Objetivo
+El objetivo de esta práctica fue instalar correctamente el entorno de desarrollo de Haskell, verificar su funcionamiento y ejecutar una aplicación de ejemplo para conocer el uso de herramientas como GHC, Stack y Cabal.">
     <meta name="generator" content="Hugo 0.161.1">
     
     
@@ -16,7 +20,7 @@
     
 
     
-<link rel="stylesheet" href="/ananke/css/main.min.css" >
+<link rel="stylesheet" href="/PortafolioParadigmasP/ananke/css/main.min.css" >
 
 
 
@@ -32,24 +36,31 @@
     
 
     
-      <link rel="canonical" href="http://localhost:1313/practica3/">
+      <link rel="canonical" href="http://localhost:1313/PortafolioParadigmasP/practica3/">
     
 
     
     
-    <meta property="og:url" content="http://localhost:1313/practica3/">
+    <meta property="og:url" content="http://localhost:1313/PortafolioParadigmasP/practica3/">
   <meta property="og:site_name" content="My New Hugo Project">
   <meta property="og:title" content="Practica3: El paradigma funcional">
+  <meta property="og:description" content="Introducción En esta práctica se realizó la instalación y configuración del entorno de desarrollo del lenguaje de programación funcional Haskell utilizando la herramienta oficial GHCup. Además, se verificó el funcionamiento del compilador, del intérprete interactivo y de las herramientas principales del ecosistema de Haskell. Finalmente, se ejecutó una aplicación tipo TODO para comprender el flujo de trabajo y la estructura básica de un proyecto desarrollado en Haskell.
+Objetivo El objetivo de esta práctica fue instalar correctamente el entorno de desarrollo de Haskell, verificar su funcionamiento y ejecutar una aplicación de ejemplo para conocer el uso de herramientas como GHC, Stack y Cabal.">
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:published_time" content="2026-05-01T16:55:32-07:00">
     <meta property="article:modified_time" content="2026-05-01T16:55:32-07:00">
 
   <meta itemprop="name" content="Practica3: El paradigma funcional">
+  <meta itemprop="description" content="Introducción En esta práctica se realizó la instalación y configuración del entorno de desarrollo del lenguaje de programación funcional Haskell utilizando la herramienta oficial GHCup. Además, se verificó el funcionamiento del compilador, del intérprete interactivo y de las herramientas principales del ecosistema de Haskell. Finalmente, se ejecutó una aplicación tipo TODO para comprender el flujo de trabajo y la estructura básica de un proyecto desarrollado en Haskell.
+Objetivo El objetivo de esta práctica fue instalar correctamente el entorno de desarrollo de Haskell, verificar su funcionamiento y ejecutar una aplicación de ejemplo para conocer el uso de herramientas como GHC, Stack y Cabal.">
   <meta itemprop="datePublished" content="2026-05-01T16:55:32-07:00">
   <meta itemprop="dateModified" content="2026-05-01T16:55:32-07:00">
+  <meta itemprop="wordCount" content="610">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Practica3: El paradigma funcional">
+  <meta name="twitter:description" content="Introducción En esta práctica se realizó la instalación y configuración del entorno de desarrollo del lenguaje de programación funcional Haskell utilizando la herramienta oficial GHCup. Además, se verificó el funcionamiento del compilador, del intérprete interactivo y de las herramientas principales del ecosistema de Haskell. Finalmente, se ejecutó una aplicación tipo TODO para comprender el flujo de trabajo y la estructura básica de un proyecto desarrollado en Haskell.
+Objetivo El objetivo de esta práctica fue instalar correctamente el entorno de desarrollo de Haskell, verificar su funcionamiento y ejecutar una aplicación de ejemplo para conocer el uso de herramientas como GHC, Stack y Cabal.">
 
 	
   </head><body class="ma0 avenir bg-near-white development is-page is-page page-practica3">
@@ -61,7 +72,7 @@
     <div class="bg-black">
       <nav class="pv3 ph3 ph4-ns" role="navigation">
   <div class="flex-l center items-center justify-between">
-    <a href="/" class="f3 fw2 hover-white white-90 dib no-underline">
+    <a href="/PortafolioParadigmasP/" class="f3 fw2 hover-white white-90 dib no-underline">
       
         My New Hugo Project
       
@@ -101,7 +112,78 @@
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><ul class="pa0">
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-100-l"><h1 id="introducción">Introducción</h1>
+<p>En esta práctica se realizó la instalación y configuración del entorno de desarrollo del lenguaje de programación funcional <strong>Haskell</strong> utilizando la herramienta oficial GHCup. Además, se verificó el funcionamiento del compilador, del intérprete interactivo y de las herramientas principales del ecosistema de Haskell. Finalmente, se ejecutó una aplicación tipo TODO para comprender el flujo de trabajo y la estructura básica de un proyecto desarrollado en Haskell.</p>
+<hr>
+<h1 id="objetivo">Objetivo</h1>
+<p>El objetivo de esta práctica fue instalar correctamente el entorno de desarrollo de Haskell, verificar su funcionamiento y ejecutar una aplicación de ejemplo para conocer el uso de herramientas como GHC, Stack y Cabal.</p>
+<hr>
+<h1 id="instalación-del-entorno-de-desarrollo">Instalación del entorno de desarrollo</h1>
+<p>La instalación del entorno se realizó desde la página oficial de Haskell:</p>
+<p><a href="https://www.haskell.org/downloads/">https://www.haskell.org/downloads/</a></p>
+<p>Posteriormente se utilizó GHCup como instalador principal del ecosistema de Haskell. La instalación se llevó a cabo desde PowerShell en Windows sin utilizar permisos de administrador.</p>
+<p>Durante el proceso se instalaron los siguientes componentes:</p>
+<ul>
+<li>GHC (Glasgow Haskell Compiler)</li>
+<li>Stack (gestor de proyectos y dependencias)</li>
+<li>Cabal (herramienta de compilación y empaquetado)</li>
+<li>HLS (Haskell Language Server)</li>
+</ul>
+<p>También se configuraron herramientas adicionales necesarias para el funcionamiento del entorno en Windows, incluyendo MSYS2.</p>
+<hr>
+<h1 id="verificación-de-instalación">Verificación de instalación</h1>
+<p>Después de finalizar la instalación se verificó el funcionamiento del entorno mediante los siguientes comandos:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ghc --version
+</span></span><span style="display:flex;"><span>stack --version
+</span></span><span style="display:flex;"><span>cabal --version
+</span></span></code></pre></div><p><img src="ghc.png" alt="Verificacion de instalación">
+<img src="stack.png" alt="Verificación de instalación">
+<img src="cabal.png" alt="Verificación de instalación"></p>
+<p>Los resultados mostrados confirmaron que todas las herramientas fueron instaladas correctamente.</p>
+<h1 id="uso-del-intérprete-ghci">Uso del intérprete GHCi</h1>
+<p>Se ejecuto el intérprete interactivo de Haskell utilizando el siguiente comando:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>ghci
+</span></span></code></pre></div><p>Dentro del intérprete se realizaron pruebas básicas para verificar el funcionamiento del lenguaje:</p>
+<p><img src="prueba01.png" alt="Prueba 01"></p>
+<p>Estas pruebas permitieron comprobar que el entorno interactivo funcionaban correctamente y que era posible evaluar expresiones matemáticas en Haskell.</p>
+<h1 id="aplicación-todo-en-haskell">Aplicación TODO en Haskell</h1>
+<p>Se descargó una aplicación de ejemplo desde el siguiente repositorio:</p>
+<p><a href="https://github.com/steadylearner/Haskell/tree/main/examples/blog/todo">https://github.com/steadylearner/Haskell/tree/main/examples/blog/todo</a></p>
+<p>Posteriormente se compiló y ejecutó el proyecto utilizado Stack mediante los siguientes comandos:</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>stack setup
+</span></span><span style="display:flex;"><span>stack build
+</span></span><span style="display:flex;"><span>stack run
+</span></span></code></pre></div><p>Durante la compilación se descargaron automáticamente las dependencias necesarias para el funcionamiento de la aplicación.</p>
+<h1 id="funcionamiento-de-la-aplicación">Funcionamiento de la aplicación</h1>
+<p>La aplicación TODO  desarrollada en Haskell permite administrar tareas desde la terminal mediante comandos interactivos.
+Los comandos disponibles son los siguientes:</p>
+<ul>
+<li>+ texto → Agregar una nueva tarea</li>
+<li>- número → Eliminar una tarea</li>
+<li>e número → Editar una tarea existente</li>
+<li>s número → Mostrar una tarea específica</li>
+<li>l → Mostrar todas las tareas</li>
+<li>r → Invertir el orden de las tareas</li>
+<li>c → Limpia todas las tareas</li>
+<li>q → Salir del programa</li>
+</ul>
+<p>Durante la práctica se realizaron pruebas agregando, mostrando y editando tareas para comprobar el correcto funcionamiento de la aplicación.</p>
+<h1 id="configuración-del-archivo-env">Configuración del archivo .env</h1>
+<p>Para ejecutar correctamente la aplicación fue necesario crear un archivo .env dentro del directorio del proyecto con la siguiente configuracion.</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>PORT<span style="color:#f92672">=</span><span style="color:#ae81ff">3000</span>
+</span></span><span style="display:flex;"><span>WEBSITE<span style="color:#f92672">=</span>http://localhost:3000
+</span></span></code></pre></div><p>Este archivo permitió definir las variables de entorno necesarias para el funcionamiento de la aplicación.</p>
+<h1 id="resultados-obtenidos">Resultados obtenidos</h1>
+<p>Durante la práctica se logró instalar correctamente el entorno de desarrollo de Haskell, incluyendo el compilador GHC, Stack y Cabal.</p>
+<p>También se verificó el funcionamiento del intérprete interactivo GHCi mediante operaciones básicas y se logro compilar y ejecutar exitosamente una aplicación tipo TODO desarrollada en Haskell.</p>
+<p>La práctica permitió comprender la estructura básica de un proyecto en Haskell, así como el uso de herramientas de compilación, manejo de dependencias y ejecución de aplicaciones desde terminal.</p>
+<h1 id="conclusión">Conclusión</h1>
+<p>Al finalizar la práctica se logró configurar correctamente el entorno de desarrollo de Haskell utilizando GHCup y sus herramientas principales.</p>
+<p>La ejecución de la aplicación TODO permitió comprender mejor el funcionamiento de la programación funcional y el flujo de trabajo utilizado en proyectos desarrollados con Haskell.</p>
+<p>Además, se adquirieron conocimientos básicos sobre compilación, manejo de dependencias, uso del intérprete interactivo y configuración de variables de entorno para la ejecución de aplicaciones.</p>
+<p><a href="https://github.com/menaxmn/PortafolioParadigmasP" title="Repositorio GitHub">GitHub</a></p>
+<p><a href="https://menaxmn.github.io/PortafolioParadigmasP/" title="Sitio Estatico">Sitio Estatico</a></p>
+<ul class="pa0">
   
 </ul>
 
@@ -111,7 +193,7 @@
     </main>
     <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/" >
+  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="http://localhost:1313/PortafolioParadigmasP/" >
     &copy;  My New Hugo Project 2026 
   </a>
     <div><div class="ananke-socials"></div>
