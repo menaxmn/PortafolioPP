@@ -2,3 +2,4 @@ baseURL = 'https://menaxmn.github.io/PortafolioPP/'
 locale = 'en-us'
 title = 'Portafolio'
 theme = 'ananke'
+publishDir = "docs"
