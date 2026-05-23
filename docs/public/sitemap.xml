@@ -2,23 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/PortafolioPP/</loc>
+    <loc>https://menaxmn.github.io/PortafolioPP/</loc>
+    <lastmod>2026-05-01T16:55:43-07:00</lastmod>
+  </url><url>
+    <loc>https://menaxmn.github.io/PortafolioPP/practica4/</loc>
+    <lastmod>2026-05-01T16:55:43-07:00</lastmod>
+  </url><url>
+    <loc>https://menaxmn.github.io/PortafolioPP/practica3/</loc>
     <lastmod>2026-05-01T16:55:32-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PortafolioPP/practica3/</loc>
-    <lastmod>2026-05-01T16:55:32-07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/PortafolioPP/practica2/</loc>
+    <loc>https://menaxmn.github.io/PortafolioPP/practica2/</loc>
     <lastmod>2026-05-01T16:55:27-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PortafolioPP/practica1/</loc>
+    <loc>https://menaxmn.github.io/PortafolioPP/practica1/</loc>
     <lastmod>2026-05-01T16:54:50-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PortafolioPP/practica0/</loc>
+    <loc>https://menaxmn.github.io/PortafolioPP/practica0/</loc>
     <lastmod>2026-05-01T16:52:29-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/PortafolioPP/categories/</loc>
+    <loc>https://menaxmn.github.io/PortafolioPP/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/PortafolioPP/tags/</loc>
+    <loc>https://menaxmn.github.io/PortafolioPP/tags/</loc>
   </url>
 </urlset>
