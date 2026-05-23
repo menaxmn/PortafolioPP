@@ -1,4 +1,4 @@
 baseURL = 'https://menaxmn.github.io/PortafolioParadigmasP/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Portafolio'
 theme = 'ananke'
