@@ -1,4 +1,4 @@
-baseURL = 'https://menaxmn.github.io/PortafolioParadigmasP/'
+baseURL = 'https://menaxmn.github.io/PortafolioPP/'
 locale = 'en-us'
 title = 'Portafolio'
 theme = 'ananke'
