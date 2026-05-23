@@ -2,3 +2,12 @@ baseURL = 'https://menaxmn.github.io/PortafolioPP/'
 locale = 'en-us'
 title = 'Portafolio'
 theme = 'ananke'
+
+[menu]
+  main = [
+    { name = "Practica 0", url = "/practica0/", weight = 1 },
+    { name = "Practica 1", url = "/practica1/", weight = 2 },
+    { name = "Practica 2", url = "/practica2/", weight = 3 },
+    { name = "Practica 3", url = "/practica3/", weight = 4 },
+    { name = "Practica 4", url = "/practica4/", weight = 5 }
+  ]
