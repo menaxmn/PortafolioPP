@@ -4,6 +4,12 @@ draft = false
 title = 'Practica2: El paradigma orientado a objetos'
 +++
 
+**Materia:** 40032 - Paradigmas de la Programación [cite: 11]  
+**Docente:** M.I. José Carlos Gallegos Mariscal  
+**Grupo:** 941 
+
+---
+
 # Introducción
 
 En esta segunda práctica, el objetivo fue diseñar e implementar un **Simulador de Estacionamiento (Parking Lot)** aplicando de manera integral los pilares de la **Programación Orientada a Objetos (POO)**. 

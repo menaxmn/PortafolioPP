@@ -4,8 +4,6 @@ date: 2026-05-01T16:54:50-07:00
 draft: false
 ---
 
-# Reporte de Práctica 01: Cola de impresión en lenguaje C
-
 **Materia:** 40032 - Paradigmas de la Programación [cite: 11]  
 **Docente:** M.I. José Carlos Gallegos Mariscal  
 **Grupo:** 941 
