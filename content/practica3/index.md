@@ -4,7 +4,7 @@ draft = false
 title = 'Practica3: El paradigma funcional'
 +++
 
-**Materia:** 40032 - Paradigmas de la Programación [cite: 11]  
+**Materia:** 40032 - Paradigmas de la Programación 
 **Docente:** M.I. José Carlos Gallegos Mariscal  
 **Grupo:** 941 
 

@@ -1,5 +1,4 @@
 baseURL = 'https://menaxmn.github.io/PortafolioPP/'
 locale = 'en-us'
-title = 'Portafolio'
+title = 'Paradigmas de la programación'
 theme = 'ananke'
-publishDir = "docs"
